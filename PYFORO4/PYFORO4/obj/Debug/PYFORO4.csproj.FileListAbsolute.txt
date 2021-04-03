@@ -1,0 +1,37 @@
+C:\Users\cesar\Downloads\upc  ciclo\fundamenteos de sistemas de informacion\semana 1\sesion blended\PYFORO4\PYFORO4\bin\Debug\PYFORO4.exe.config
+C:\Users\cesar\Downloads\upc  ciclo\fundamenteos de sistemas de informacion\semana 1\sesion blended\PYFORO4\PYFORO4\bin\Debug\PYFORO4.exe
+C:\Users\cesar\Downloads\upc  ciclo\fundamenteos de sistemas de informacion\semana 1\sesion blended\PYFORO4\PYFORO4\bin\Debug\PYFORO4.pdb
+C:\Users\cesar\Downloads\upc  ciclo\fundamenteos de sistemas de informacion\semana 1\sesion blended\PYFORO4\PYFORO4\obj\Debug\PYFORO4.csprojResolveAssemblyReference.cache
+C:\Users\cesar\Downloads\upc  ciclo\fundamenteos de sistemas de informacion\semana 1\sesion blended\PYFORO4\PYFORO4\obj\Debug\PYFORO4.Properties.Resources.resources
+C:\Users\cesar\Downloads\upc  ciclo\fundamenteos de sistemas de informacion\semana 1\sesion blended\PYFORO4\PYFORO4\obj\Debug\PYFORO4.csproj.GenerateResource.Cache
+C:\Users\cesar\Downloads\upc  ciclo\fundamenteos de sistemas de informacion\semana 1\sesion blended\PYFORO4\PYFORO4\obj\Debug\PYFORO4.exe
+C:\Users\cesar\Downloads\upc  ciclo\fundamenteos de sistemas de informacion\semana 1\sesion blended\PYFORO4\PYFORO4\obj\Debug\PYFORO4.pdb
+C:\Users\cesar\Downloads\upc  ciclo\fundamenteos de sistemas de informacion\semana 1\sesion blended\PYFORO4\PYFORO4\obj\Debug\PYFORO4.frmPYFORO4.resources
+C:\Users\cesar\Downloads\PYFORO4\PYFORO4\bin\Debug\PYFORO4.exe.config
+C:\Users\cesar\Downloads\PYFORO4\PYFORO4\obj\Debug\PYFORO4.exe
+C:\Users\cesar\Downloads\PYFORO4\PYFORO4\obj\Debug\PYFORO4.pdb
+C:\Users\cesar\Downloads\PYFORO4\PYFORO4\bin\Debug\PYFORO4.exe
+C:\Users\cesar\Downloads\PYFORO4\PYFORO4\bin\Debug\PYFORO4.pdb
+C:\Users\cesar\Downloads\PYFORO4\PYFORO4\obj\Debug\PYFORO4.csprojResolveAssemblyReference.cache
+C:\Users\cesar\Downloads\PYFORO4\PYFORO4\obj\Debug\PYFORO4.frmPYFORO4.resources
+C:\Users\cesar\Downloads\PYFORO4\PYFORO4\obj\Debug\PYFORO4.Properties.Resources.resources
+C:\Users\cesar\Downloads\PYFORO4\PYFORO4\obj\Debug\PYFORO4.csproj.GenerateResource.Cache
+D:\upc\visual 2017\PYFORO4\PYFORO4\bin\Debug\PYFORO4.exe.config
+D:\upc\visual 2017\PYFORO4\PYFORO4\bin\Debug\PYFORO4.exe
+D:\upc\visual 2017\PYFORO4\PYFORO4\bin\Debug\PYFORO4.pdb
+D:\upc\visual 2017\PYFORO4\PYFORO4\obj\Debug\PYFORO4.csprojResolveAssemblyReference.cache
+D:\upc\visual 2017\PYFORO4\PYFORO4\obj\Debug\PYFORO4.frmPYFORO4.resources
+D:\upc\visual 2017\PYFORO4\PYFORO4\obj\Debug\PYFORO4.Properties.Resources.resources
+D:\upc\visual 2017\PYFORO4\PYFORO4\obj\Debug\PYFORO4.csproj.GenerateResource.Cache
+D:\upc\visual 2017\PYFORO4\PYFORO4\obj\Debug\PYFORO4.exe
+D:\upc\visual 2017\PYFORO4\PYFORO4\obj\Debug\PYFORO4.pdb
+F:\marco brugman sii\PYFORO4\PYFORO4\bin\Debug\PYFORO4.exe.config
+F:\marco brugman sii\PYFORO4\PYFORO4\bin\Debug\PYFORO4.exe
+F:\marco brugman sii\PYFORO4\PYFORO4\bin\Debug\PYFORO4.pdb
+F:\marco brugman sii\PYFORO4\PYFORO4\obj\Debug\PYFORO4.csprojAssemblyReference.cache
+F:\marco brugman sii\PYFORO4\PYFORO4\obj\Debug\PYFORO4.frmPYFORO4.resources
+F:\marco brugman sii\PYFORO4\PYFORO4\obj\Debug\PYFORO4.Properties.Resources.resources
+F:\marco brugman sii\PYFORO4\PYFORO4\obj\Debug\PYFORO4.csproj.GenerateResource.cache
+F:\marco brugman sii\PYFORO4\PYFORO4\obj\Debug\PYFORO4.csproj.CoreCompileInputs.cache
+F:\marco brugman sii\PYFORO4\PYFORO4\obj\Debug\PYFORO4.exe
+F:\marco brugman sii\PYFORO4\PYFORO4\obj\Debug\PYFORO4.pdb
